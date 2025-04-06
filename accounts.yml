@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Jose Luis - Developer"
+    email: "joseluis.landero@outlook.com"
+  onCallSupport:
+    -(555) 555 1234
+    -(555) 523 1345

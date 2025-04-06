@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Persona Random 2 - Tech Lead"
+    email: "personarandom2@outlook.com"
+  onCallSupport:
+    - (524) 462 3985
+    - (756) 678 2345

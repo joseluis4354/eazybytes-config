@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "5.0"
+
+loans:
+  message: "Welcome to Eazy Bank loans related QA APIs"
+  contactDetails:
+    name: "Jose Luis"
+    email: "joseluis.landero@outlook.com"
+  onCallSupport:
+    - (556) 534 - 3496
+    - (334) 687 - 9458

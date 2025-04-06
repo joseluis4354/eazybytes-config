@@ -1,0 +1,11 @@
+build:
+  version: "6.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Yorgos Lab"
+    email: "yorgos.lab@outlook.com"
+  onCallSupport:
+    - (412) 419 - 3491
+    - (123) 456 - 5643

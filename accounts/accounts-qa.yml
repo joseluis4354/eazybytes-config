@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Adrian R - QA Lead"
+    email: "adrian.r@outlook.com"
+  onCallSupport:
+    -(777) 555 1234
+    -(777) 523 1345

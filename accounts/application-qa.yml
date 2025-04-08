@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs, another change"
+  message: "Welcome to EazyBank accounts related QA APIs, the last change, I was because we defined the dtoclass as record"
   contactDetails:
     name: "Adrian R - QA Lead"
     email: "adrian.r@outlook.com"

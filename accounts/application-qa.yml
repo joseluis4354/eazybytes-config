@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs figuring out why this thing is not working"
+  message: "Welcome to EazyBank accounts related QA APIs, still not working"
   contactDetails:
     name: "Adrian R - QA Lead"
     email: "adrian.r@outlook.com"

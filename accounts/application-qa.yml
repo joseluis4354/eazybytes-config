@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank accounts related QA APIs and trying to test the actuator path from my repo"
   contactDetails:
     name: "Adrian R - QA Lead"
     email: "adrian.r@outlook.com"

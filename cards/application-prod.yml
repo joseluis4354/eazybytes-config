@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs, also reviewing"
+  message: "Welcome to EazyBank cards related prod APIs, testing if the bush refresh works"
   contactDetails:
     name: "Persona Random 2 - Tech Lead"
     email: "personarandom2@outlook.com"

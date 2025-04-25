@@ -2,7 +2,7 @@ build:
   version: "7.0"
 
 loans:
-  message: "Welcome to Eazy Bank loans related Prod APIs, busrefresh is working good"
+  message: "Welcome to Eazy Bank loans related Prod APIs, busrefresh is soooo smooth"
   contactDetails:
     name: "Calamarino Elegante"
     email: "calamarino.elegante@outlook.com"
